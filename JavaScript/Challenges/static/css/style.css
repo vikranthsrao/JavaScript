@@ -1,0 +1,10 @@
+.flex-box-container{
+    display: flex;
+    padding: 10px;
+    border: 1px solid black;
+}
+.flex-box-container div{
+    display: flex;
+    padding: 10px;
+    border: 1px solid black;
+}
